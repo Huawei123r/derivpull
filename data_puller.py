@@ -5,7 +5,7 @@ from deriv_api import DerivAPI
 import time
 
 # Replace with your actual API token
-API_TOKEN = '9Q9EpVPJNqqNwdj'
+API_TOKEN = '***********'
 
 async def get_historical_data(api, symbol, timeframe):
     """
